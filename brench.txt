@@ -4,6 +4,3 @@ if (a+b>15)
 {
     Console.WriteLine("The answer is graeter than10");
 }
-else
-{
-    Console.WriteLine("這個答案比10小");
