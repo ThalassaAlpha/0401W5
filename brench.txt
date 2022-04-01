@@ -1,13 +1,13 @@
-a=5;
-b=7;
-if (a+b>15)
+a=4;
+b=1;
+if (a+b>3)
 {
-    Console.WriteLine("The answer is graeter than10");
+    Console.WriteLine("The answer is graeter than 5");
 }
 else
 {
-    Console.WriteLine("這個答案比10小");
-else if(a+b>10)
+    Console.WriteLine("The answer is not greater than 3");
+else if(a+b>5)
 {
-    Console.WriteLine("這個答案在10跟15之間");
+    Console.WriteLine("The answer is between 5 and 3");
 }
